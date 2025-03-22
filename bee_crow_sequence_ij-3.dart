@@ -1,4 +1,3 @@
-import 'dart:io';
 
 void main() {
   int num = 7;
